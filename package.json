@@ -12,6 +12,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@aziham/chartjs-plugin-streaming": "^3.5.1",
     "@capacitor/app": "8.1.0",
     "@capacitor/core": "8.3.4",
     "@capacitor/haptics": "8.0.2",
@@ -19,9 +20,16 @@
     "@capacitor/status-bar": "8.0.2",
     "@ionic/vue": "^8.0.0",
     "@ionic/vue-router": "^8.0.0",
+    "apexcharts": "^5.12.0",
+    "chart.js": "^4.5.1",
+    "chartjs-adapter-date-fns": "^3.0.0",
+    "echarts": "^6.0.0",
     "ionicons": "^7.0.0",
     "vue": "^3.3.0",
-    "vue-router": "^4.2.0"
+    "vue-chart-3": "^4.0.1",
+    "vue-echarts": "^8.0.1",
+    "vue-router": "^4.2.0",
+    "vue3-apexcharts": "^1.11.1"
   },
   "devDependencies": {
     "@capacitor/cli": "8.3.4",
