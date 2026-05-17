@@ -1,0 +1,7 @@
+{
+  "name": "2lookApp-dashboard",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
